@@ -1,2 +1,2 @@
 # lab-agile-planninig
-Contain the lab fir Agile planing 
+Contain the lab for Agile planing 
